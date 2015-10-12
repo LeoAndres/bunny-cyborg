@@ -1,7 +1,7 @@
 {
   "server": "irc.freenode.net",
-  "nick": "conejo--",
-  "ident": "conejo",
+  "nick": "Nisman",
+  "ident": "Nisman",
   "gecos": "Soy amigable",
   "password": "",
   "sasl": false,
@@ -12,14 +12,14 @@
   "replyrate": 5,
   "followinvites": true,
   
-  "owners": ["wikimedia/Polsaker", "unaffiliated/ravioli"],
+  "owners": ["unaffiliated/Mxcm777", "unaffiliated/jeda"],
 
   "channels": {
-    "#donger": {
+    "#U_U": {
       "talk": true,
       "replyrate": 10
     },
-    "#otherchannel":{
+    "##Life":{
       "talk": false
     }
   }
